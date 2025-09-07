@@ -10,6 +10,9 @@
 - Physics
 - ICP
 
+**My name is Kabeer**
+*I'm Data Science Student*
+
 📊 Skilled in Python, SQL, and data visualization.
 
 🤖 Interested in Machine Learning, Deep Learning, and AI applications.
